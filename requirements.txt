@@ -281,7 +281,7 @@ tqdm==4.36.1
 traitlets==4.3.3
 turicreate==6.1
 unicodecsv==0.14.1
-urllib3==1.24.2
+urllib3==1.26.5
 visbrain==0.4.5
 vispy==0.6.4
 wcwidth==0.1.7
